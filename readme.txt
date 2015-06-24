@@ -18,6 +18,8 @@ Within the widget, you can add a 'Title' that will appear on the website as widg
 
 For example - If you provide a URL in the text box of Twitter, Pinterest and you leave the text box of Facebook blank. Then, you'll only see Twitter, Pinterest icons appear in the widget on the website. So its easily customizable and you can 'Choose what you want to Share'.
 
+<a href="http://demo.esb.neosun.pro/wordpress/" target="_blank">Demo</a>
+
 == Installation ==
 
 1. When you download this plugin widget it will mainly be a folder named 'easy-social-buttons'.
@@ -48,5 +50,3 @@ Note: Be sure to enter the URL for each social site by starting with 'http://' o
 
 = 1.2 =
 Upgrade.
-
-Demo Page: http://demo.esb.neosun.pro/wordpress/
