@@ -1,0 +1,30 @@
+# Russian (ru_Ru) translation for WordPress.
+# Copyright (C) YEAR WordPress contributors.
+# This file is distributed under the same license as the WordPress package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: easy-social-buttons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-20 22:25-0500\n"
+"PO-Revision-Date: 2015-06-20 23:22+0600\n"
+"Last-Translator: Shra\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"MIME-Version: 1.0\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.8.1\n"
+
+msgid "Links to your profiles on social networks."
+
+msgid "Widget Title"
+
+msgid "Title of your widget on the site."
+
+msgid "Color of icon"
+
+msgid "<b>Note:</b> Please enter the URL by starting with 'http://' or 'https://' in order to link the social icon properly with your profile."
+
+msgid "Follow me"

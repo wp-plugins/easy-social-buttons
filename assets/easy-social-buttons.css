@@ -1,0 +1,25 @@
+/* Base option */
+
+#easy-social-buttons a.href { text-decoration: none; }
+
+#easy-social-buttons svg {
+	cursor: pointer;
+	text-decoration: none;
+	clear: left;
+}
+
+
+/* Metro circle style */
+
+#easy-social-buttons svg.Facebook:hover .background {fill: #48649f; stroke: #48649f;}
+#easy-social-buttons svg.GooglePlus:hover .background {fill: #CC3732; stroke: #CC3732;}
+#easy-social-buttons svg.Twitter:hover .background {fill: #64abde; stroke: #64abde;}
+#easy-social-buttons svg.VK:hover .background {fill: #557aa6; stroke: #557aa6;}
+#easy-social-buttons svg.MyWorld:hover .background {fill: #168de2; stroke: #168de2;}
+#easy-social-buttons svg.Odnoklassniki:hover .background {fill: #ed812b; stroke: #ed812b;}
+#easy-social-buttons svg.Pinterest:hover .background {fill: #bd071d; stroke: #bd071d;}
+#easy-social-buttons svg.Tumblr:hover .background {fill: #425064; stroke: #425064;}
+#easy-social-buttons svg.Instagram:hover .background {fill: #517fa4; stroke: #517fa4;}
+#easy-social-buttons svg.YouTube:hover .background {fill: #cf3739; stroke: #cf3739;}
+
+#easy-social-buttons svg:hover .icon {fill: #fff;}
