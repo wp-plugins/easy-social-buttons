@@ -1,5 +1,5 @@
-=== Easy Social Buttons ===
-Contributors: https://profiles.wordpress.org/psyhonaut
+﻿=== Easy Social Buttons ===
+Contributors: psyhonaut
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kossykh%2esergey%40gmail%2ecom&lc=US&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest
 Tags: social, widget, sharing, plugin, wordpress, facebook, twitter, vk, my world, odnoklassniki, google+, instagram, pinterest, tumblr, youtube
 Requires at least: 2.9.2
