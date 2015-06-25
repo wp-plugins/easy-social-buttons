@@ -1,6 +1,6 @@
 <?php /*
 Plugin Name: Easy Social Buttons
-Plugin URI: http://esb.neosun.pro/
+Plugin URI: https://wordpress.org/plugins/easy-social-buttons/
 Description: It is very easy and simple Plugin for showing your social links using a simple widget so that people can connect with you more easily.
 Version: 1.2
 Author: Kossykh Sergey
