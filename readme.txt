@@ -40,6 +40,15 @@ For example - If you provide a URL in the text box of Twitter, Pinterest and you
 7. Designed in strict accordance with the requirements of trademark owners to third parties upstream developer. 100% of the color of these brands.
 Note: Be sure to enter the URL for each social site by starting with 'http://' or 'https://' (Example: http://www.facebook.com/beauty) in order to make the social icons properly link to your social profile.
 
+
+== Screenshots ==
+
+1. Example display on the plug-in site.
+2. Display example plugin in the administrative control panel.
+3. Adaptive design allows the use of plug-in sites with the technology «Responsive Web Design».
+4. Using technology svg, it allows the display icons is perfect on any device screen and browser.
+5. 100% design and colors of the brand owners.
+
 == Changelog ==
 
 = 1.2 =
